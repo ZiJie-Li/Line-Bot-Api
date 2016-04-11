@@ -1,0 +1,11 @@
+{
+  "require" : {
+    "guzzlehttp/guzzle": "6.2.0",
+    "silex/silex": "v1.3.5",
+    "monolog/monolog": "1.18.2",
+    "cu/linebot": "dev-master"
+  },
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "v100"
+  }
+}

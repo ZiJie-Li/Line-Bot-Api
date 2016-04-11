@@ -1,0 +1,19 @@
+{
+  "name": "Line Bot Api",
+  "description": "Line Bot Api",
+  "repository": "https://github.com/ZiJie-Li/Line-Bot-Api.git",
+  "addons": [
+    "fixie:tricycle"
+  ],
+  "env": {
+    "LINE_CHANNEL_ID": {
+      "description": "輸入 LINE_CHANNEL_ID"
+    },
+    "LINE_CHANNEL_SECRET": {
+      "description": "輸入 LINE_CHANNEL_SECRET"
+    },
+    "LINE_CHANNEL_MID": {
+      "description": "輸入 LINE_CHANNEL_MID"
+    }
+  }
+}
